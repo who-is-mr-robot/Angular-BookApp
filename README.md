@@ -7,4 +7,4 @@ Validations like required, pattern matching are used. Form won't be able to subm
 The Courses section is built to show the parent to child routing using the Router Module in the angular framework. The view is dynamically updated upon the state change, by the use of subscribe function.
 
 ## Welcome Page
-![Welcome Page]("./PreviewScreenshots/BookApp-WelcomePage.png")
+![Welcome Page](./PreviewScreenshots/BookApp-WelcomePage.png)
