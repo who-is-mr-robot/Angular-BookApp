@@ -8,3 +8,17 @@ The Courses section is built to show the parent to child routing using the Route
 
 ## Welcome Page
 ![Welcome Page](./PreviewScreenshots/BookApp-WelcomePage.png)
+
+## Add Book Page
+This page has some form input elements that are part of the Model Driven Form. Some of the basic validations are done and form cannot be submitted if it has errors.
+![Add Book Page](./PreviewScreenshots/BookApp-Form.png)
+
+## Data binding using @Input() directive
+Data has been binded using the @Input directive, from the parent to the child component.
+![Book Added Alert](./PreviewScreenshots/BookApp-FormSubmitted.png)
+
+## Courses Page
+In this page, we can see the parent and child routing using the RouterModule. The courses can be navigated through their respected courseIDs. We can see some of the patterns demonstrated in this application in the real world too.
+![Course Page](./PreviewScreenshots/BookApp-CourseOSCP.png)
+![Course Page](./PreviewScreenshots/BookApp-CourseAZURE.png)
+
